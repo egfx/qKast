@@ -52,7 +52,7 @@ qKast API currently returns data in [JSON](http://json.org/ "JSON") format.
 There is no authentication required right now.
 
 ### Is there a request rate limit?
-There is not rate limit at the moment. Please use responsibly.
+Nope.
 
 [REST software pattern]: http://en.wikipedia.org/wiki/Representational_State_Transfer
 [JSON]: http://json.org
