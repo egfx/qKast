@@ -21,7 +21,9 @@ See [status.qkast.com](http://status.qkast.com) for API status updates, outages,
 ## Examples
 
 - **[AngularJS](http://)**
+- **[React](http://)**
 - **[jQuery](http://)**
+- **[Vue](http://)**
 
 ## Changes
 
