@@ -31,8 +31,8 @@ See [status.qkast.com](http://status.qkast.com) for API status updates, outages,
 
 #### Widget
 
-- **[<code>GET</code> widget](https://github.com/500px/api-documentation/blob/master/endpoints/widget/GET_widgets.md)**
-- **[<code>GET</code> widget/:id](https://github.com/500px/api-documentation/blob/master/endpoints/widget/GET_widget_id.md)**
+- **[<code>GET</code> widget](https://github.com/qkast/api-documentation/blob/master/endpoints/widget/GET_widgets.md)**
+- **[<code>GET</code> widget/:id](https://github.com/qkast/api-documentation/blob/master/endpoints/widget/GET_widget_id.md)**
 
 ## FAQ
 ### What do I need to know before I start using the API?
