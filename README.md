@@ -45,7 +45,7 @@ Got rust on your skills? No worries. Here are the docs you might need to get sta
 - Data serialization with [JSON][] (or see a [quick tutorial][])
 
 ### How do I connect to the qkast.com API?
-Generally, reading any data is done through a request with GET method. If you want our server to create, update or delete a given resource, POST or PUT methods are required on supported end points.
+Generally, reading any data is done through a request with the GET method. If you want our server to create, update or delete a given resource, POST or PUT methods are required on supported end points.
 
 ### What return formats do you support?
 qKast API currently returns data in [JSON](http://json.org/ "JSON") format.
