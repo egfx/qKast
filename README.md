@@ -20,10 +20,8 @@ See [status.qkast.com](http://status.qkast.com) for API status updates, outages,
 
 ## Examples
 
-- **[JavaScript](http://500px.github.com/500px-js-sdk)**
-- **[iOS](https://github.com/500px/api-documentation/blob/master/examples/iOS/API%20Tutorials.md)**
-- **[Ruby](https://github.com/500px/api-documentation/blob/master/examples/Ruby/)**
-- **[PHP](https://github.com/500px/api-documentation/blob/master/examples/PHP/PHP.md)**
+- **[AngularJS](http://)**
+- **[jQuery](http://)**
 
 ## Changes
 
