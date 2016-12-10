@@ -13,7 +13,7 @@ See [status.qkast.com](http://status.qkast.com) for API status updates, outages,
 
 ## Checklist
 * [Grab the bookmarklet](https://qkast.com)
-* Familiarize yourself with API functionality
+* Familiarize yourself with the API functionality
 * Hack away
 
 ***
