@@ -4,7 +4,7 @@ qKast API documentation and examples
 qKast API provides programmatic access to qKast functionality and content.
 Version 1 of the API is limited to the essentials of the website's functionality: allowing the creation of new widgets, accessing UI internals, and getting information.
 
-The information API is [REST API](http://en.wikipedia.org/wiki/Representational_State_Transfer "RESTful")
+The information API is [REST](http://en.wikipedia.org/wiki/Representational_State_Transfer "RESTful")
 The return format for all endpoints is [JSON](http://json.org/ "JSON").
 
 See [status.qkast.com](http://status.qkast.com) for API status updates, outages, and scheduled maintenance.
