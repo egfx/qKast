@@ -52,7 +52,7 @@ qKast API currently returns data in [JSON](http://json.org/ "JSON") format.
 There is no authentication required right now.
 
 ### Is there a request rate limit?
-There is a rate limit of 10,000 API requests per month per account. We will contact you and if required disable your application if we find that your application is exceeding this limit or interfering with our system's stability.This revised rate limit will come into effect January 1, 2017.
+There is not rate limit at the moment. Please use responsibly.
 
 [REST software pattern]: http://en.wikipedia.org/wiki/Representational_State_Transfer
 [JSON]: http://json.org
