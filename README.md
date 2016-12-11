@@ -1,4 +1,4 @@
-# qKast .tm
+# qKast &copy;
 qKast API documentation and examples
 
 qKast API provides programmatic access to qKast functionality and content.
