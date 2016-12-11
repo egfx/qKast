@@ -36,6 +36,11 @@ See [status.qkast.com](http://status.qkast.com) for API status updates, outages,
 - **[<code>GET</code> widget](https://github.com/qkast/api-documentation/blob/master/endpoints/widget/GET_widgets.md)**
 - **[<code>GET</code> widget/:id](https://github.com/qkast/api-documentation/blob/master/endpoints/widget/GET_widget_id.md)**
 
+#### Channel
+
+- **[<code>GET</code> channel](https://github.com/qkast/api-documentation/blob/master/endpoints/widget/GET_channels.md)**
+- **[<code>GET</code> channel/:id](https://github.com/qkast/api-documentation/blob/master/endpoints/widget/GET_channel_id.md)**
+
 ## FAQ
 ### What do I need to know before I start using the API?
 Got rust on your skills? No worries. Here are the docs you might need to get started:
