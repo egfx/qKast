@@ -15,6 +15,7 @@ See [status.qkast.com](http://status.qkast.com) for API status updates, outages,
 * [Grab the bookmarklet](https://qkast.com)
 * Familiarize yourself with the API functionality
 * Hack away
+* [Use the import tool](https://qkast.com/share?channel=1337)
 
 ***
 
