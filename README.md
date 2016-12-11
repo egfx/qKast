@@ -61,6 +61,7 @@ There is no authentication required right now.
 ### Is there a request rate limit?
 Nope.
 
+--
 * [REST software pattern]: http://en.wikipedia.org/wiki/Representational_State_Transfer
 * [JSON]: http://json.org
 * [quick tutorial]: http://www.webmonkey.com/2010/02/get_started_with_json/
