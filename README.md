@@ -42,12 +42,6 @@ See [status.qkast.com](http://status.qkast.com) for API status updates, outages,
 - **[<code>GET</code> channel/:id](https://github.com/qkast/api-documentation/blob/master/endpoints/widget/GET_channel_id.md)**
 
 ## FAQ
-### What do I need to know before I start using the API?
-Got rust on your skills? No worries. Here are the docs you might need to get started:
-
-- HTTPS protocol
-- [REST software pattern][]
-- Data serialization with [JSON][] (or see a [quick tutorial][])
 
 ### How do I connect to the qkast.com API?
 Generally, reading any data is done through a request with the GET method. If you want our server to create, update or delete a given resource, POST or PUT methods are required on supported end points.
@@ -61,7 +55,7 @@ There is no authentication required right now.
 ### Is there a request rate limit?
 Nope.
 
---
+-
 * [REST software pattern]: http://en.wikipedia.org/wiki/Representational_State_Transfer
 * [JSON]: http://json.org
 * [quick tutorial]: http://www.webmonkey.com/2010/02/get_started_with_json/
