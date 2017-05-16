@@ -1,1 +1,3 @@
 # CLOCK
+
+all clockity clock  
